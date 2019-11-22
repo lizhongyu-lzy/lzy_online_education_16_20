@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Education_provider/Education_provider.iml" filepath="$PROJECT_DIR$/Education_provider/Education_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config_server/config_server.iml" filepath="$PROJECT_DIR$/config_server/config_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/education_api/education_api.iml" filepath="$PROJECT_DIR$/education_api/education_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/education_vue/education_vue.iml" filepath="$PROJECT_DIR$/education_vue/education_vue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lzy_online_education_16_20.iml" filepath="$PROJECT_DIR$/lzy_online_education_16_20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user_provider/user_provider.iml" filepath="$PROJECT_DIR$/user_provider/user_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul_server/zuul_server.iml" filepath="$PROJECT_DIR$/zuul_server/zuul_server.iml" />
+    </modules>
+  </component>
+</project>
