@@ -8,6 +8,9 @@
         <module>Education_provider</module>
         <module>education_api</module>
         <module>user_provider</module>
+        <module>eureka_server</module>
+        <module>gateway_server</module>
+        <module>Feign_server</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

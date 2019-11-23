@@ -9,6 +9,9 @@
         <module name="config_server" />
         <module name="education_api" />
         <module name="Education_provider" />
+        <module name="eureka_server" />
+        <module name="Feign_server" />
+        <module name="gateway_server" />
         <module name="user_provider" />
         <module name="zuul_server" />
       </profile>
@@ -17,6 +20,9 @@
       <module name="config_server" target="1.8" />
       <module name="education_api" target="1.8" />
       <module name="Education_provider" target="1.8" />
+      <module name="eureka_server" target="1.8" />
+      <module name="Feign_server" target="1.8" />
+      <module name="gateway_server" target="1.8" />
       <module name="lzy_online_education_16_20" target="1.8" />
       <module name="user_provider" target="1.8" />
       <module name="zuul_server" target="1.8" />

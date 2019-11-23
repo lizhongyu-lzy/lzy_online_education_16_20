@@ -1,4 +1,4 @@
-package com.lzy.pojo.VO;
+package com.lzy.VO;
 
 import com.lzy.pojo.User;
 import lombok.Getter;

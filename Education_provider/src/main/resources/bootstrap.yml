@@ -1,6 +1,6 @@
 spring:
   application:
-    name: education-com.lzy.service
+    name: education-provider
   cloud:
     config:
       uri: http://localhost:7001

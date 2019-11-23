@@ -7,7 +7,7 @@ import javax.persistence.*;
 import java.util.Date;
 
 @Entity
-@Table(name= "t_score")
+@Table(name= "lm_score")
 @Getter
 @Setter
 public class Score {

@@ -21,14 +21,6 @@ public class EducationServiceImplTest {
 
     @Test
     public  void test(){
-        Score score = new Score();
-        score.setCreateTime(new Date());
-        score.setEndTime(new Date());
-
-
-        educationMapper.save(score);
-
-        educationMapper.delete(score);
 
 
     }
